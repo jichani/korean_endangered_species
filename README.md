@@ -1,6 +1,6 @@
 # korean_endangered_species
 
-[서버 링크 주소]<https://usefulfruitfulenvironment.dlawlcks12.repl.co/>
+[서버 링크 주소]<https://koreanendangeredspecies.dlawlcks12.repl.co>
 
 
 ### 모티브한 사이트 : 국립생태원 (https://www.nie.re.kr/nie/main/main.do)
