@@ -1,14 +1,18 @@
 # korean_endangered_species
----
+
 [서버 링크 주소]<https://usefulfruitfulenvironment.dlawlcks12.repl.co/>
 
-## 모티브한 사이트 : 국립생태원 (https://www.nie.re.kr/nie/main/main.do)
 
-### 프로젝트 진행일 : 20230425(월) ~ 20230426(화)
+### 모티브한 사이트 : 국립생태원 (https://www.nie.re.kr/nie/main/main.do)
+
+
+### 프로젝트 진행일 : 2023.04.25(월) ~ 2023.04.26(화)
 
 
 ### 모티브한 페이지 :
 국립생태원 > 멸종위기 야생생물 > 소개 (https://www.nie.re.kr/nie/main/contents.do?menuNo=200129)
+
+
 국립생태원 > 멸종위기 야생생물 > 지정현황 (https://www.nie.re.kr/nie/pgm/edSpecies/edSpeciesList.do?menuNo=200127)
 
 
